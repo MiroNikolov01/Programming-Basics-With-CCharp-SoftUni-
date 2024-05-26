@@ -1,6 +1,0 @@
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\03.RectangleArea\bin\Debug\03.RectangleArea.exe.config
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\03.RectangleArea\bin\Debug\03.RectangleArea.exe
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\03.RectangleArea\bin\Debug\03.RectangleArea.pdb
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\03.RectangleArea\obj\Debug\03.RectangleArea.csproj.CoreCompileInputs.cache
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\03.RectangleArea\obj\Debug\03.RectangleArea.exe
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\03.RectangleArea\obj\Debug\03.RectangleArea.pdb
