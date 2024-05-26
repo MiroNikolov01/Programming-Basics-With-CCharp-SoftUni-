@@ -1,6 +1,0 @@
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\02. Nums 1-10\bin\Debug\_02.Nums_1_10.exe.config
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\02. Nums 1-10\bin\Debug\_02.Nums_1_10.exe
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\02. Nums 1-10\bin\Debug\_02.Nums_1_10.pdb
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\02. Nums 1-10\obj\Debug\02. Nums 1-10.csproj.CoreCompileInputs.cache
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\02. Nums 1-10\obj\Debug\_02.Nums_1_10.exe
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\02. Nums 1-10\obj\Debug\_02.Nums_1_10.pdb
