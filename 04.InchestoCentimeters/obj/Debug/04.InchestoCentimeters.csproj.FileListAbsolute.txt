@@ -1,0 +1,6 @@
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\04.InchestoCentimeters\bin\Debug\04.InchestoCentimeters.exe.config
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\04.InchestoCentimeters\bin\Debug\04.InchestoCentimeters.exe
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\04.InchestoCentimeters\bin\Debug\04.InchestoCentimeters.pdb
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\04.InchestoCentimeters\obj\Debug\04.InchestoCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\04.InchestoCentimeters\obj\Debug\04.InchestoCentimeters.exe
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\04.InchestoCentimeters\obj\Debug\04.InchestoCentimeters.pdb

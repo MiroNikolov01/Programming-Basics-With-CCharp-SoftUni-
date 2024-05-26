@@ -1,0 +1,7 @@
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\05.GreetingbyName\obj\Debug\05.GreetingbyName.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\05.GreetingbyName\bin\Debug\05.GreetingbyName.exe.config
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\05.GreetingbyName\bin\Debug\05.GreetingbyName.exe
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\05.GreetingbyName\bin\Debug\05.GreetingbyName.pdb
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\05.GreetingbyName\obj\Debug\05.GreetingbyName.csproj.AssemblyReference.cache
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\05.GreetingbyName\obj\Debug\05.GreetingbyName.exe
+C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\05.GreetingbyName\obj\Debug\05.GreetingbyName.pdb
