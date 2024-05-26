@@ -19,16 +19,10 @@ namespace _05.SpecialNumbers
                     {
                         for (int l = 1; l <= 9; l++)
                         {
-
-                            if (l == 0)
-                            {
-                                continue;
-                            }
                             if (n % l == 0 && n % k == 0 && n % j == 0 && n % i == 0)
                             {
                                 Console.Write($"{i}{j}{k}{l} ");
                             }
-
                         }
                     }
                 }
