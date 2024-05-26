@@ -1,7 +1,0 @@
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\01. Hello SoftUni\bin\Debug\_01.Hello_SoftUni.exe.config
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\01. Hello SoftUni\bin\Debug\_01.Hello_SoftUni.exe
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\01. Hello SoftUni\bin\Debug\_01.Hello_SoftUni.pdb
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\01. Hello SoftUni\obj\Debug\01. Hello SoftUni.csproj.AssemblyReference.cache
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\01. Hello SoftUni\obj\Debug\01. Hello SoftUni.csproj.CoreCompileInputs.cache
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\01. Hello SoftUni\obj\Debug\_01.Hello_SoftUni.exe
-C:\Users\Nikolay\source\repos\FirstStepsInCodingLab\01. Hello SoftUni\obj\Debug\_01.Hello_SoftUni.pdb
