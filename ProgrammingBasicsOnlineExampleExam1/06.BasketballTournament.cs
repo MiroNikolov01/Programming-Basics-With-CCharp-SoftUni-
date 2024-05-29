@@ -37,9 +37,9 @@ namespace _06.BasketballTournament
 
             }
             double averageWins = (double)countWin / totalGames * 100;
-            double averageLoses = (double)countLost / totalGames * 100;
+            double averageLosses = (double)countLost / totalGames * 100;
             Console.WriteLine($"{averageWins:F2}% matches win");
-            Console.WriteLine($"{averageLoses:F2}% matches lost");
+            Console.WriteLine($"{averageLosses:F2}% matches lost");
 
         }
     }
