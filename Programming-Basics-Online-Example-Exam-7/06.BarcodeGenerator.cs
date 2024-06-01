@@ -10,17 +10,17 @@ namespace _06.BarcodeGenerator
     {
         static void Main(string[] args)
         {
-            string first = Console.ReadLine();
-            string second = Console.ReadLine();
+            int first = int.Parse(Console.ReadLine());
+            int second = int.Parse(Console.ReadLine());
 
-            int x1 = int.Parse(first[0].ToString());
-            int x2 = int.Parse(first[1].ToString());
-            int x3 = int.Parse(first[2].ToString());
-            int x4 = int.Parse(first[3].ToString());
-            int y1 = int.Parse(second[0].ToString());
-            int y2 = int.Parse(second[1].ToString());
-            int y3 = int.Parse(second[2].ToString());
-            int y4 = int.Parse(second[3].ToString());
+            int x1 = first / 10 / 10 / 10 % 10;
+            int x2 = first / 10 / 10 % 10;
+            int x3 = first / 10 % 10;
+            int x4 = first % 10;
+            int y1 = second / 10 / 10 / 10 % 10;
+            int y2 = second / 10 / 10 % 10;
+            int y3 = second / 10 % 10;
+            int y4 = second % 10;
 
             for (int i1 = x1; i1 <= y1; i1++)
             {
