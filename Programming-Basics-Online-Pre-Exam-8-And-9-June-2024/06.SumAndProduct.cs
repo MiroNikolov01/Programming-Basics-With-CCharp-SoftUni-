@@ -20,7 +20,6 @@ namespace Exercise1
                     {
                         for (int d = 9; d >= c; d--)
                         {
-                            isFound = false;
                             if ((a + b + c + d) == (a * b * c * d) && n % 10 == 5)
                             {
                                 isFound = true;
