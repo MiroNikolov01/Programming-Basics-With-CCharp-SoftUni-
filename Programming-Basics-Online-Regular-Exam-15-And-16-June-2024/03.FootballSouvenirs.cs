@@ -56,7 +56,7 @@ namespace _03.Problem
                         default: Console.WriteLine("Invalid stock!"); return;
                     }
                     break;
-                default: Console.WriteLine("Invalid country!"); return; ;
+                default: Console.WriteLine("Invalid country!"); return; 
             }
             Console.WriteLine($"Pepi bought {countBoughtSouvenirs} {souvenir} of {team} for {totalPrice:F2} lv.");
 
