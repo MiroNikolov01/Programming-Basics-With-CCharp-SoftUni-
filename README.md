@@ -1,4 +1,4 @@
-# ✨ Homework Assignments Repository ✨
+# ✨ Programming Basics with C# ✨
 
 Welcome to my **Homework Assignments Repository**! This repository contains solutions to programming problems designed to strengthen your understanding of essential coding concepts.
 
@@ -15,7 +15,7 @@ Welcome to my **Homework Assignments Repository**! This repository contains solu
 
 ## 📝 Overview
 
-This repository is a collection of coding exercises that cover fundamental programming topics. It’s organized to help you easily find and review solutions for your assignments.
+This repository is a collection of coding exercises that cover basic programming topics. It’s organized to help you easily find and review solutions for your assignments.
 
 ---
 
@@ -38,8 +38,7 @@ Each topic is organized into its own file or folder for clarity and ease of acce
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/MiroNikolov01/Programming-Basics-With-CCharp-SoftUni-
-.git
+   git clone https://github.com/MiroNikolov01/Programming-Basics-With-CCharp-SoftUni-.git
 
 ## 👤 Author
 
