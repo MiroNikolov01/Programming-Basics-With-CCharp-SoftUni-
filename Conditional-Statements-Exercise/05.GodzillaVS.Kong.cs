@@ -19,15 +19,15 @@ namespace _05.GodzillaVS.Kong
             double priceClothing = countOfStatist * clothingOneStatist;
             double priceDecors = budgetFilm * 0.10;
 
-
-
             if (countOfStatist > 150)
             {
                 priceClothing = priceClothing - priceClothing * 0.10;
             }
-              double totalSum = priceDecors + priceClothing;
+            
+            double totalSum = priceDecors + priceClothing;
             double moneyNeeded = totalSum - budgetFilm;
-              double moneyLeft = budgetFilm - totalSum;
+            double moneyLeft = budgetFilm - totalSum;
+            
             if (totalSum < budgetFilm)
             {
                 Console.WriteLine($"Action!\nWingard starts filming with {moneyLeft:f2} leva left.");
